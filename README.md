@@ -17,3 +17,9 @@
     ```npm run dev```
 
 ## Some image of project
+
+![home screen](./home-screen.jpg)
+
+![car detail screen](./car-details.jpg)
+
+![car edit information screen](./edit-car-info.jpg)
