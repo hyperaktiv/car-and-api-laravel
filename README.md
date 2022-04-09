@@ -1,5 +1,12 @@
 ## Description
 
+- Code for functions show, create, edit, delete
+- Code to create api to get, post, put data 
+- Create and control database with SEED method of Laravel
+- Upload image to server
+- Understand MVC pattern and control the database of websites
+- ...
+
 ## Run the SITES
 
     - Open terminal and run, to open and run site:
